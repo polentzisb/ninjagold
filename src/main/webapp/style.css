@@ -21,7 +21,7 @@
     height: 220px;
     line-height: 40px;
     padding: 10px;
-    background-color: cornflowerblue;
+    background-color: purple;
     color: black;
     border-radius: 5px;
 }
@@ -35,7 +35,7 @@
     margin-top: 10px;
 }
 .gain{
-    color:green;
+    color: blue;
 }
 .loss{
     color:red;
